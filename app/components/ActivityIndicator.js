@@ -12,7 +12,7 @@ function ActivityIndicator({ visible = false }) {
         justifyContent: "center",
         alignItems: "center",
       }}
-      source={require("../assets/animations/loading.json")}
+      source={require("../../assets/animations/loading.json")}
     />
   );
 }

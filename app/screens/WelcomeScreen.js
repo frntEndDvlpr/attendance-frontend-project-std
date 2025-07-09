@@ -9,12 +9,12 @@ function WelcomeScreen({ navigation }) {
     <ImageBackground
       blurRadius={10}
       style={styles.background}
-      source={require("../assets/background.jpg")}
+      source={require("../../assets/background.jpg")}
     >
       <View style={styles.logoContainer}>
         <Image
           style={styles.welcomeLogo}
-          source={require("../assets/soms_logo.png")}
+          source={require("../../assets/soms_logo.png")}
         />
         <Text style={styles.tagLine}>
           Effortless, Intelligent Attendance Tracking
