@@ -31,6 +31,9 @@
     "extra": {
       "bugsnag": {
         "apiKey": "2145ce2658891fc4f18af79af0859cca"
+      },
+      "eas": {
+        "projectId": "eec105a0-50d7-4f8f-8326-6e552474e007"
       }
     },
     "hooks": {
